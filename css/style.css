@@ -42,3 +42,8 @@ h6 {
 .tyContainer a {
   text-decoration: none;
 }
+
+.tyContainer .tyTitle {
+  background-color: gray;
+  height: 50px;
+}
