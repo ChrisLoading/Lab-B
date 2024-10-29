@@ -35,10 +35,11 @@ h6 {
 }
 
 .tyClose {
-  color: #aaaaaa;
-  float: right;
+  color: red;
+  
   font-size: 28px;
   font-weight: bold;
+  font-style: italic;
 }
 
 .tyClose:hover,
